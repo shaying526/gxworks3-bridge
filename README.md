@@ -4,6 +4,8 @@ GX Works3 Bridge 为三菱 GX Works3 提供 Windows x64 便携 CLI 和 Agent Ski
 
 ## 快速开始
 
+> **一句话安装（可发给本地 AI）** 请从 [https://github.com/shaying526/gxworks3-bridge](https://github.com/shaying526/gxworks3-bridge) 下载并完整解压，将 `cli/` 整目录放到本机工具目录，将 `skill/gxworks3-edit/` 整目录安装到项目的 Skill 目录（Codex 为 `.agents/skills/gxworks3-edit/`），然后用 `gx3.exe` 的绝对路径运行 `help --json` 验证安装。
+
 在 GitHub 上选择 **Code → Download ZIP**，完整解压后，从包含 `README.md` 的目录运行 PowerShell 命令。
 
 ```powershell
