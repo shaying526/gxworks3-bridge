@@ -1,0 +1,2 @@
+# Keep every distributed file byte-identical to SHA256SUMS.json.
+* -text

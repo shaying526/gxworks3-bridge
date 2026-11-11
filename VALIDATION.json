@@ -1,0 +1,63 @@
+{
+  "release": "GitHub initial distribution, build34",
+  "cliBuild": "gx3-file-direct-preview-20261111-34",
+  "cliSha256": "629594619f622f05a90ba2c80c606a6046e91bd81c560816a8fb77a8e265e861",
+  "basedOn": "V2.00 d4df47c",
+  "scope": "Registered closed copy of the verified GX Works3 1.128J lineage native128/6bfa4931ccdd0505",
+  "operation": "file registered comment read|set|clear",
+  "language": "zh-CN",
+  "targets": {
+    "ProgPou": 4,
+    "FB_AxisBasic": 13
+  },
+  "v200RegistrationVerified": true,
+  "actualWrites": 17,
+  "sqliteTableCount": 19,
+  "preservedExistingColumn16Records": 94,
+  "preservedPrgDefaultComments": 4,
+  "preGxChangedArchiveMembers": [
+    "LabelData.db"
+  ],
+  "preGxChangedDatabaseTables": [
+    "ColumnDataTbl"
+  ],
+  "preGxChangedTargetRowIds": 0,
+  "preGxSha256": "2865c2b964d1abbe44f7de8373486ae890d0dc6a9f1fd3504d7493dd6ac1bdec",
+  "gx": {
+    "version": "1.128J",
+    "mode": "independent validation instance",
+    "read": 17,
+    "conversion": "rebuild all (maintain)",
+    "errors": 0,
+    "warnings": 0,
+    "saved": true,
+    "reopened": true,
+    "reopenedRead": 17,
+    "closed": true,
+    "savedSha256": "be1125fc895d8e1cf181d831d5e707eb7eb055e9503d47395396adab7129df26"
+  },
+  "finalCandidateSavedProjectReadback": 17,
+  "regressionChecks": {
+    "knownComment": 148,
+    "registeredSession": 39,
+    "copyRegistration": 26
+  },
+  "scopeLimit": "No device, simulation, Windows 11 or clean-machine acceptance in this cycle.",
+  "candidateCliSha256": "3223542e96486503f43e2ef0973f565344c84c5ce9196096da53081754178738",
+  "githubBuild": {
+    "selfContainedRuntime": "10.0.14",
+    "debugSourcePathRemapped": true,
+    "identicalManagedMethodBodies": 15705
+  },
+  "publicationChecks": {
+    "relatedRegressionChecks": 213,
+    "readmeQuickStart": true,
+    "readmeCopyAndRegister": true,
+    "readmeStList": true,
+    "distributionCommentReadback": true,
+    "relativeMarkdownLinksChecked": true,
+    "privatePatternsChecked": true,
+    "validationPlatform": "Windows 10 x64, local verification",
+    "gxAcceptance": "Prior build34 candidate GX 1.128J read, conversion 0/0, save and reopen. The remapped build was checked for equivalent managed method bodies and offline readback."
+  }
+}
